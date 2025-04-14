@@ -1,6 +1,6 @@
 # SDHHarryPotterBookSeries
 
-> SDHHarryPotterBookSeries는 해리포터 책의 정보를 볼 수 있는 해리포터 시리즈 책 앱입니다.
+> SDHHarryPotterBookSeries는 해리포터 책의 정보를 볼 수 있는 해리포터 책 시리즈 앱입니다.
 <br/>
 
 ## 📋 프로젝트 개요
