@@ -1,6 +1,6 @@
-# SDHHarryPotterBookSeries
+# HarryPotterBookSeries
 
-> SDHHarryPotterBookSeries는 해리포터 책의 정보를 볼 수 있는 해리포터 책 시리즈 앱입니다.
+> HarryPotterBookSeries는 해리포터 책의 정보를 볼 수 있는 해리포터 책 시리즈 앱입니다.
 <br/>
 
 ## 📋 프로젝트 개요
@@ -27,7 +27,7 @@ Autolayout과 View 간의 제약 관계를 익히고, 가변적인 데이터에 
 
 ### UI Frameworks
 - UIKit
-- SnapKit(AutoLayout)
+- SnapKit
 <br/>
 
 ## 📱 프로젝트 구현 기능
